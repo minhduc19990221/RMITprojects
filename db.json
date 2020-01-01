@@ -1,0 +1,34 @@
+[
+    {
+        "studentId": 0,
+        "studentName": "Minh Duc",
+        "courseID": "COSC2430",
+        "courseName": "Web Programming",
+        "semester": 4,
+        "assignmentName": "Assignment 3",
+        "assignmentDescription": "Lorem ipsum dolor",
+        "assignmentPercentage": 100,
+        "technology":"NodeJS, ReactJS, MongoDB",
+        "scope":"Lorem ipsum dolor",
+        "description":"Lorem ipsum dolor",
+        "company": "RMIT",
+        "application": true,
+        "photo": "img/avatar-8.jpg"
+    },
+    {
+        "studentId": 1,
+        "studentName": "Duc Minh",
+        "courseID": "ISYS2430",
+        "courseName": "Software Engineering",
+        "semester": 4,
+        "assignmentName": "Assignment 3",
+        "assignmentDescription": "Lorem ipsum dolor",
+        "assignmentPercentage": 85,
+        "technology":"Lucid",
+        "scope":"Lorem ipsum dolor",
+        "description":"Lorem ipsum dolor",
+        "company": "Valve",
+        "application": true,
+        "photo": "img/avatar-9.jpg"
+    }
+]
